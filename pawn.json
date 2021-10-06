@@ -3,5 +3,14 @@
 	"repo": "RPpriv",
 	"entry": "test.pwn",
 	"output": "test.amx",
-	"dependencies": []
+	"dependencies": [],
+	"resources": [
+        {
+            "includes": ["pawno/include"],
+            "plugins": ["plugins/streamer.dll"]
+        }
+    ],
+    "runtime": {
+        "plugins": ["Marroquin02/RPpriv"]
+    }
 }
