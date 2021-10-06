@@ -2,5 +2,8 @@
 	"user": "Marroquin02",
 	"repo": "RPpriv",
 	"entry": "test.pwn",
-	"output": "test.amx"
+	"output": "test.amx",
+	"dependencies": [
+		"Marroquin02/RPpriv"
+	]
 }
