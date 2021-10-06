@@ -3,7 +3,5 @@
 	"repo": "RPpriv",
 	"entry": "test.pwn",
 	"output": "test.amx",
-	"dependencies": [
-		"Marroquin02/RPpriv"
-	]
+	"dependencies": []
 }
