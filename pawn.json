@@ -6,7 +6,7 @@
 	"dependencies": [],
 	"resources": [
         {
-            "name": "^samp-plugin-(.*).zip$",
+            "name": "^plugins.zip$",
             "platform": "windows",
             "archive": true,
             "plugins": ["plugins/*.dll"]
