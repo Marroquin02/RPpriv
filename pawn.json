@@ -6,6 +6,9 @@
 	"dependencies": [],
 	"resources": [
         {
+            "name": "^samp-streamer-plugin-(.*).zip$",
+            "platform": "windows",
+            "archive": true,
             "includes": ["pawno/include"],
             "plugins": ["plugins/streamer.dll"]
         }
